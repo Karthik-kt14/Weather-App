@@ -31,48 +31,6 @@ Clone the repository
 git clone https://github.com/your-username/weather-app.git
 cd weather-app
 
-
-Get your API Key
-
-Go to OpenWeatherMap
-
-Sign up and generate a free API key.
-
-Add API Key to the Project
-
-Open the script.js file.
-
-Replace "YOUR_API_KEY" with your actual API key:
-
-const API_KEY = "YOUR_API_KEY";
-
-
-Run the App
-
-Open index.html in your browser.
-
-📸 Screenshots
-Home Page	Weather Result
-
-	
-🧩 API Reference
-
-Endpoint:
-
-https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}&units=metric
-
-🤝 Contributing
-
-Contributions are welcome!
-
-Fork the repository
-
-Create a new branch
-
-Make your changes
-
-Submit a pull request
-
 📜 License
 
 This project is free to use and open-sourced under the MIT License
